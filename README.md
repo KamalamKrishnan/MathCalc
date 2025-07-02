@@ -46,7 +46,7 @@ Built using **MediaPipe**, **OpenCV**, and **Python**, it recognizes number and 
 
 ## 📷 Demo
 
-![Demo](math_demo.mp4)
+[Demo](math_demo.mp4)
 
 
 ---
